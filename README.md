@@ -29,3 +29,9 @@ To install use the following commands:
 ```
 pip install matplotlib
 ```
+### Running the script
+Once installing the Prerequisites, navigate to the project folder and use the following command:
+```
+python main.py
+```
+Then the program will ask how many darts you would like to throw, enter your desired amount and enjoy the plot it produces!
